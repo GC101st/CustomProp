@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-1.0" y="-1.0" z="-1.0" />
+      <bbMax x="1.0" y="1.0" z="1.0" />
+      <bsCentre x="0.0" y="0.0" z="0.0" />
+      <bsRadius value="1.7320508" />
+      <hdTextureDist value="60.0"/>
+      <name>cube</name>
+      <textureDictionary>cube</textureDictionary>
+      <physicsDictionary>cube</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>cube</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>cube</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
